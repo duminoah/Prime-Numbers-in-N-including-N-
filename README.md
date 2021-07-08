@@ -1,5 +1,5 @@
-#Total Prime numbers in a given N-number 
-## first java problem 
+##Total Prime numbers in a given N-number 
+# My first java solution 
 
 * To compile the program in command line, type the following command: 
 ``` cmd
